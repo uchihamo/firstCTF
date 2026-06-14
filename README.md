@@ -1,2 +1,14 @@
-# firstCTF
-# Hidden in Plain Sight  A simple beginner-friendly steganography challenge.  The answer is closer than it appears. Take a careful look at the provided image and explore beyond what is visible on the surface.  Hint: Not everything is visible at first glance.  Password: thisisfine  Flag format: flag{...}
+# Beginner Steganography Challenge
+
+Can you find what's hidden inside the image?
+
+## Files
+- steghide
+
+## Hint
+Not everything is visible at first glance.
+
+Password:
+thisisfine
+
+the flag is basically just a format there wont be anything inside the {} the format starts with "C"
